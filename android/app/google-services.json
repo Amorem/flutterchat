@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674692046500",
+    "firebase_url": "https://flutterchat-f9b23.firebaseio.com",
+    "project_id": "flutterchat-f9b23",
+    "storage_bucket": "flutterchat-f9b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674692046500:android:eb7a4d6ac9dee4db",
+        "android_client_info": {
+          "package_name": "com.amorem.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674692046500-1fm5g0h9fk55g9inf1bmpko207fss2jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19LjVAvQWoaS7S02OiIptiTwb3nLHEUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674692046500-1fm5g0h9fk55g9inf1bmpko207fss2jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
